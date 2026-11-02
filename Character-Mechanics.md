@@ -20,7 +20,7 @@
     - [Hourglass](#hourglass)
     - [Mortimer](#mortimer)
 
-here how each characters on fnati bd works:
+here how each charactersworks:
 
 ---
 
@@ -28,12 +28,12 @@ here how each characters on fnati bd works:
 
 ### Mascot Photo Negative Mickey
 
-- You need to flick your cursor horizontaly until it leaves, The flick speed Doesn' tmater as longas it is not too slow
+- You need to flick your cursor horizontaly until it leaves, The flick speed Doesn' tmater as longas it is not too slow. dissapear afte 2 seconds of flicking
 - kills in 8 seconds(I think)
 
 ### Undying
 
-- Stand stll on the right side of the ofice
+- Stand stll on the right side of the ofice.
 - Kills in 8 seconds.
 
 ### Acephalous
