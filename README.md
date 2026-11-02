@@ -4,4 +4,4 @@
 
 ## To get started
 
-- [Normal Character Ai](./Normal.md)
+- [Character mechanics](./Character-Mechanics.md)
