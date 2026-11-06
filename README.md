@@ -1,7 +1,7 @@
-# How Fnati But Dumb works
+# How FNATI But Dumb Works
 
-## This repo will help you to learn how fnati bd works since theres no wiki for it.
+This repository will help you learn how FNATI BD works since there is no wiki for it.
 
-## To get started
+## To Get Started
 
-- [Character mechanics](./Character-Mechanics.md)
+- [Character Mechanics](./Character-Mechanics.md)

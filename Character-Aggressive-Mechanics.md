@@ -1,145 +1,152 @@
-# Aggressive AKA Suicide mouse mode character mechanics
+# Aggressive Character Mechanics (Suicide Mouse Mode)
 
-- [Aggressive AKA Suicide mouse mode character mechanics](#aggressive-aka-suicide-mouse-mode-character-mechanics)
-  - [little help](#little-help)
-  - [The Office cycle characters](#the-office-cycle-characters)
+- [Aggressive Character Mechanics (Suicide Mouse Mode)](#aggressive-character-mechanics-suicide-mouse-mode)
+  - [Little Help](#little-help)
+  - [The Office Cycle Characters](#the-office-cycle-characters)
     - [Mascot Photo Negative Mickey](#mascot-photo-negative-mickey)
     - [Undying](#undying)
     - [Acephalous](#acephalous)
     - [Sparky](#sparky)
   - [Distraction Characters](#distraction-characters)
     - [Oswald](#oswald)
-    - [Classic The face](#classic-the-face)
+    - [Classic The Face](#classic-the-face)
     - [Pete](#pete)
     - [Disembodied](#disembodied)
-    - [Willie](#willie)
-  - [And finally, The Big Six (Hardest Characters)](#and-finally-the-big-six-hardest-characters)
-    - [Photo negative mickey](#photo-negative-mickey)
-    - [The face](#the-face)
+    - [Willy](#willy)
+  - [And Finally, The Big Six (Hardest Characters)](#and-finally-the-big-six-hardest-characters)
+    - [Photo Negative Mickey](#photo-negative-mickey)
+    - [The Face](#the-face)
     - [Classic Photo Negative Mickey](#classic-photo-negative-mickey)
     - [Impurity](#impurity)
     - [Hourglass](#hourglass)
     - [Mortimer](#mortimer)
+  - [Useful Notes](#useful-notes)
 
-## little help
+## Little Help
 
-- Click space to stand still
-- Only one camera can be shut off, shut off a camera by clicking the camera icon
-- CLick on the light bulb to shut off light.
-- you can stand still while lights off at the same time
+- Press space to stand still.
+- Only one camera can be shut off at a time. Shut off a camera by clicking the camera icon.
+- Click on the light bulb to shut off the lights.
+- You can stand still while the lights are off at the same time.
 
-here how each characters works:
+Here is how each character works:
 
 ---
 
-## The Office cycle characters
+## The Office Cycle Characters
 
 ### Mascot Photo Negative Mickey
 
-- You need to flick your cursor horizontaly until it leaves, The flick speed Doesn' t mater as long as it is not too slow. dissapear afte 2 seconds of flicking
-- Aggressive Special: While flicking, its kill timer is no longer paused and can kill you on cameras
-- kills in 8 seconds(I think)
+- You need to flick your cursor horizontally until he leaves. The flick speed doesn't matter as long as it is not too slow. Disappears after 2 seconds of flicking.
+- Aggressive Special: While flicking, his kill timer is no longer paused and he can kill you on cameras.
+- Kills in 8 seconds (I think).
 
 ### Undying
 
-- Stand stll on the right side of the ofice.
-- Aggressive Special: Kill timer is paused when standing on his side only
-- Kills in 8 seconds.
+- Stand still on the right side of the office.
+- Aggressive Special: Kill timer is paused when standing on his side only.
+- Kills in 6 seconds.
 
 ### Acephalous
 
-- Stand still on the left side of the office to get rid of it.
-- Aggressive Special: Kill timer is paused when standing on his side only/
-- kills in 8 seconds
+- Stand still on the left side of the office to get rid of him.
+- Aggressive Special: Kill timer is paused when standing on his side only.
+- Kills in 6 seconds.
 
 ### Sparky
 
-- Shut off the lights, stand still anywhere then shut off any camera to get rid of it.
-- Special: Kill timer is paused when standing still anywhere while the lighs are off
-- Agressive special: Kill in 11.5 Seconds both office and camera phase
+- Shut off the lights, stand still anywhere, and then shut off any camera to get rid of him.
+- Special: Kill timer is paused when standing still anywhere while the lights are off.
+- Aggressive Special: Kills in 11.5 seconds (both office and camera phases).
 
 ## Distraction Characters
 
 ### Oswald
 
-- appears if you flip the monitor enough times, stand still to get rid of it.
-- Special: kill timer is paused when Standing still.
-- Aggressive special: Kills you 1.5x faster if its in the office while you are on cams
-- kills in 5 seconds i think
+- Appears if you flip the monitor enough times; only spawns on flip-down. Stand still to get rid of him.
+- Special: Kill timer is paused when standing still.
+- Aggressive Special: Kills you 1.5x faster if he is in the office while you are on cameras.
+- Kills in 5 seconds (I think).
 
-### Classic The face
+### Classic The Face
 
-- Appears in office after you flip the monitor enough times, open the monitor and drop it down to get rid of it just like ucn golden freddy.
-- kills in 2 seconds
-- Aggressive special: Kills you in 0.6 seconds if you accidentaly stand still or shut off the lights which can happen, but works normally if you didn't do any
-- Special: stalls everybody's kill timer except oswald if its attacking
+- Appears in the office after you flip the monitor enough times; only appears on the flip-down part. Open the monitor to get rid of him, just like UCN Golden Freddy.
+- Kills in 2 seconds.
+- Aggressive Special: Kills you in 0.6 seconds if you accidentally stand still or shut off the lights, but works normally if you didn't do either. Can be a total troll and cause instant death!
+- Special: Stalls everybody's kill timer except Oswald if he is attacking.
 
 ### Pete
 
-- Appears as a dot on cams, watch it for 1.5 seconds until it dissapears.
-- Aggressive Special: Appears 3 times.
-- kills in 15 seconds i think
+- Appears as a dot on cameras. Watch it for 1.5 seconds until it disappears.
+- Special: Kicks out Willie, forcing him to move to another camera if he is on the same camera.
+- Aggressive Special: Appears 3 times before being fully dealt with.
+- Kills in 15 seconds (I think).
+- Note: Each watch resets his kill timer, so there is no need to rush watching.
 
 ### Disembodied
 
-- It will scream on your left or right, shut off a camera corresponding on which side he's attacking on
-- Special: Can't appear if any characters are attacking on the office preventing unfair deaths
-- Aggressive special: attacks two times.
-- Can't kill you but disables standing still and shutting off lights
+- Will scream on your left or right side. Shut off the camera corresponding to the side he is attacking on.
+- Special: Cannot appear if any characters are attacking in the office, preventing unfair deaths.
+- Aggressive Special: Attacks two times.
+- Cannot kill you, but disables standing still and shutting off lights.
 
-### Willie
+### Willy
 
-- Appears on random camera, don't stare for too long or it will progress.
-- Aggressive Special: apppears on a random 3 cameras but at the same time.
-- kills if you watch it for too long in his stage 3.
+- Appears on a random camera. Do not stare for too long or he will progress.
+- Aggressive Special: Appears on 3 random cameras at the same time.
+- Kills if you watch him for too long in his Stage 3.
 
 ---
 
-## And finally, The Big Six (Hardest Characters)
+## And Finally, The Big Six (Hardest Characters)
 
-> they are sooo bad on aggressive
+> They are sooo bad on aggressive.
 
-### Photo negative mickey
+### Photo Negative Mickey
 
-- Shut off Cam-6 if its on the left side on the office, Shut off cam-2 if its on the right side of the office. two seconds both.
-- Special: Kill timer is paused when his Camera is shut off
-- Aggressive speial: It is no longer visible in the office when attacking forcing you to memorize if he came from cam-2 or cam-6
-- Kills in 6 seconds I think.
+- Shut off Cam-6 if he is on the left side of the office, or Cam-2 if he is on the right side of the office (takes two seconds for both).
+- Special: Kill timer is paused when his camera is shut off.
+- Aggressive Special: He is no longer visible in the office when attacking, forcing you to memorize if he came from Cam-2 or Cam-6.
+- Kills in 6 seconds (I think).
 
-### The face
+### The Face
 
-- Shut off the lights if it appears in your office
-- kills in 8 seconds.
-- Special: stalls everybody's kill timer if its on the office except oswald, mortimer and impurity and kill timer is paused when lights are shut off
-- Aggressive special: you need to shut off cam-9 while lights off to get rid of it, and it can't kill you if your lights are off but cam-9 is not closed so it can stay in your office forever(if only the face is active)
+- Shut off the lights if he appears in your office.
+- Kills in 5 seconds.
+- Special: Stalls everybody's kill timer if he is in the office (except Oswald, Mortimer, and Impurity), and the kill timer is paused when the lights are shut off.
+- Aggressive Special: You need to shut off Cam-9 while the lights are off to get rid of him. He cannot kill you if your lights are off but Cam-9 is not closed, so he can stay in your office forever (if only The Face is active).
 
 ### Classic Photo Negative Mickey
 
-- Appears in cam-6, cam-2, cam-1, cam-3. Shut off the camera where he was last in when attacks.
-- Aggressive special: it move to another camera and attacks after 6 seconds.
-- kills in 6 seconds i think.
+- Appears in Cam-6, Cam-2, Cam-1, and Cam-3. Shut off the camera where he was last seen when he attacks.
+- Aggressive Special: He moves to another camera and attacks after 10 seconds.
+- Kills in 6 seconds (I think).
 
 ### Impurity
 
-- moves to cam-3 -->  cam-1 -->  cam-2 -->  cam-6 --> to your office, if it reaches your office you guaranteed to die, shut of her camera where shes currently in to instantly reset her move timer to 11 seconds.
-- Special: kills you if its on the office
-- Aggressive special: Shutting off her camera no longer restes her move timer in 11 seconds instantly, now each seconds her camera is closed adds 2 seconds to her movement timer like a music box.
+- Moves through Cam-3 -> Cam-1 -> Cam-2 -> Cam-6 -> to your office. If she reaches your office, you are guaranteed to die. Shut off her camera where she is currently located to instantly reset her move timer to 11 seconds.
+- Special: Kills you if she is in the office.
+- Aggressive Special: Shutting off her camera no longer resets her move timer to 11 seconds instantly; now, each second her camera is closed adds 2 seconds to her movement timer like a music box.
 
 ### Hourglass
 
-- oh boy, if its on cam-9 shut off the light, if its on cam-3 and cam-4 shut off any camera, if its on cam-5 or cam-8 stand still.
-- Kills in 6 seconds
-- Special: kill timer is paused while doing the correct action.
-- Aggressive special: Each camera has a needed action:
-  - If its on cam-9, shut of the light.
-  - if its on cam-3/cam-4, shut off the camera where he came from(Eg: cam-3, then shut off cam-3 only)
-  - if its on cam-5, stand still on left
-  - if its on cam-8, stand still on right
-- Aggressive Note: you have not enough time to do all the actions if you don't remember where he is.
+- Oh boy: if he is on Cam-9, shut off the light; if he is on Cam-3 or Cam-4, shut off any camera; if he is on Cam-5 or Cam-8, stand still.
+- Kills in 6 seconds.
+- Special: Kill timer is paused while performing the correct action.
+- Aggressive Special: Each camera has a required action:
+  - If on Cam-9, shut off the light.
+  - If on Cam-3/Cam-4, shut off the camera where he came from (e.g., if Cam-3, shut off Cam-3 only).
+  - If on Cam-5, stand still on the left.
+  - If on Cam-8, stand still on the right.
+- Aggressive Note: You do not have enough time to do all the actions if you do not remember where he is.
 
 ### Mortimer
 
-- appears in your office and starts playing his song "Suicidemouse.avi", search the cameras and shut off where the song is the loudest and will dissapear
-- Special: kill timer is paused when his camera is shut off.
-- Aggressive special: It will now permanently be in your office, but doesn't kill you if you constantly reset his kill timer. so now you have a husband watching you
-- Kills in 24 seconds
+- Appears in your office and starts playing his song "Suicidemouse.avi". Search the cameras and shut off the camera where the song is the loudest, and he will disappear.
+- Special: Kill timer is paused when his camera is shut off; cannot be stalled by others.
+- Aggressive Special: He will now permanently be in your office, but doesn't kill you if you constantly reset his kill timer. So now you have a pet watching you.
+- Kills in 24 seconds.
+
+## Useful Notes
+
+- You need to focus on the three Mickeys (CPNM, PNM, and Hourglass). If you forget one of them and suddenly CPNM and PNM attack, the only thing you can do is guess, which will result in death most of the time.
